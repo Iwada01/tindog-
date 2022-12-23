@@ -1,2 +1,1 @@
-# tindog-
-Beautiful and responsive
+TinDog Starting Files
